@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestClient" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-07-18T20:52:12" hostname="BRENNO" time="1.73">
+  <properties/>
+  <testcase name="When to delete a client information, all client data of that ID shoud be erased." classname="TestClient" time="1.552"/>
+  <testcase name="When to update a client information, then client data should be updated." classname="TestClient" time="0.062"/>
+  <testcase name="When to register a new client, then a new client should be created." classname="TestClient" time="0.024"/>
+  <testcase name="When to get all clients without a client register, then the result should be empty." classname="TestClient" time="0.085"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
